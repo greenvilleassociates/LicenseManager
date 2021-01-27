@@ -1,0 +1,2 @@
+This is a LicenseManager For MSSQL Engines under construction.
+The installer will create the datastore, the IIS Site, and the databases.
